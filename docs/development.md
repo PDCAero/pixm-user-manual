@@ -16,4 +16,4 @@ The data model in UML format is also expressed and navigable here:
 
 ### XML Schema Definition Files
 
-The current version of the PIXM Schema Definition files (XSD) can be found [here.](https://pixmaerolibrary.blob.core.windows.net/$web/PIXM Schema _ v0.1 _ 15OCT25.zip)
+The current version of the PIXM Schema Definition files (XSD) can be found [here.](https://pixmaerolibrary.blob.core.windows.net/$web/PIXM%20Schema%20_%20v0.1%20_%2015OCT25.zip)
