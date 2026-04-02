@@ -1,0 +1,71 @@
+/**
+ * theme-custom.css
+ *
+ * Override docsify-themeable CSS variables here.
+ * Full variable reference:
+ * https://jhildenbiddle.github.io/docsify-themeable/#/customization
+ *
+ * The variables below are the most commonly needed ones.
+ * Uncomment and change any you want to customise.
+ */
+
+:root {
+  /* ----------------------------------------------------------------
+   * Brand colours
+   * ---------------------------------------------------------------- */
+  --theme-color             : #0066cc;       /* links, active sidebar items */
+  /* --theme-color-dark     : #004a99; */
+
+  /* ----------------------------------------------------------------
+   * Sidebar
+   * ---------------------------------------------------------------- */
+  --sidebar-width           : 18rem;
+  --sidebar-background      : #f8f8f8;
+  --sidebar-nav-link-color--active : var(--theme-color);
+  --sidebar-nav-link-font-weight--active: 600;
+
+  /* ----------------------------------------------------------------
+   * Content
+   * ---------------------------------------------------------------- */
+  --content-max-width       : 55rem;
+  --base-font-size          : 15px;
+  --base-line-height        : 1.7;
+
+  /* ----------------------------------------------------------------
+   * Cover page (if you use one)
+   * ---------------------------------------------------------------- */
+  /* --cover-background-color : #0066cc; */
+
+  /* ----------------------------------------------------------------
+   * Code blocks
+   * ---------------------------------------------------------------- */
+  --code-theme-background   : #f5f5f5;
+  --code-theme-text         : #333;
+}
+
+/* ----------------------------------------------------------------
+ * Any extra hand-crafted CSS below this line
+ * ---------------------------------------------------------------- */
+
+/* Slightly tighten the sidebar section headings (bold group labels) */
+.sidebar-nav li > p,
+.sidebar-nav li > strong {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+  margin-top: 1.2rem;
+}
+
+/* Make images responsive by default */
+.markdown-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Add a subtle top border to the footer pagination */
+.docsify-pagination-container {
+  margin-top: 3rem;
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
