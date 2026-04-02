@@ -1,8 +1,8 @@
-# My Docs
+# PIXM User Manual
 
 Documentation site built with [Docsify](https://docsify.js.org/) and hosted on GitHub Pages.
 
-**Live site:** https://YOUR-ORG.github.io/YOUR-REPO/
+**Live site:** https://PDCAero.github.io/pixm-user-manual/
 
 ---
 
@@ -32,28 +32,3 @@ All documentation lives in the `docs/` folder as plain Markdown (`.md`) files.
 | `docs/home.md` | Home page content |
 | `docs/assets/css/theme-custom.css` | Visual theme / colours |
 | `docs/index.html` | Docsify config (rarely needs touching) |
-
----
-
-## Local preview
-
-No install required — just serve the `docs/` folder:
-
-```bash
-# Python (built into macOS/Linux)
-cd docs && python3 -m http.server 3000
-
-# Node (if you have npx)
-npx serve docs
-```
-
-Then open http://localhost:3000
-
----
-
-## GitHub Pages setup
-
-1. Go to **Settings → Pages**
-2. Source: `Deploy from a branch`
-3. Branch: `main` / folder: `/docs`
-4. Save

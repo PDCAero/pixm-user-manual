@@ -10,15 +10,14 @@
 
 - **Getting Started**
   - [Introduction](home.md)
-  - [Quick Start](guide/quick-start.md)
-
-- **Guide**
-  - [Overview](guide/overview.md)
-  - [Example Topic](guide/example-topic.md)
+  - [PIXM Items in Development](itemsInDevelopment.md)
+  - [PIXM Change Management Charter](changeManagementCharter.md)
+  - [PIXM Development](development.md)
+  - [PIXM Data Samples](dataSamples.md)
 
 - **Reference**
   - [Configuration](reference/configuration.md)
 
 - **About**
   - [License](about/license.md)
-  - Last updated on <br> *April-2026*
+  - Last updated on <br> _April-2026_
