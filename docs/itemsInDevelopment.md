@@ -6,6 +6,6 @@ This section of the PIXM Knowledge Hub is intended to house the scoping Items cu
 |-----------|-------|-------------|--------|
 | 1.1       | Simple Runway Status | PIXM format should be capable of reporting whether a runway, or runways, are open or closed.  Note that this item is not intended to capture partial closures but instead is meant to provide a simple reflection of the overall runway state. | Gate 1 |
 | 1.2       | Partial Use Runway | PIXM format should be capable of reporting whether a runway has been shortened from its "PERM" length and/or whether a runway has been closed while portions of it remain open for taxi operations | Preliminary |
-| 1.3       | Performance-based Runway Prioritization | &nbsp; | Preliminary |
-| 1.4       | Intersection Departures | &nbsp; | &nbsp; |
-| 1.5       | Preferred Taxi Routes | &nbsp; | &nbsp; |
+| 1.3       | Performance-based Runway Prioritization | - | Preliminary |
+| 1.4       | Intersection Departures | - | - |
+| 1.5       | Preferred Taxi Routes | - | - |
