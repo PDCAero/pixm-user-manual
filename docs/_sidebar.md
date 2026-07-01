@@ -20,4 +20,4 @@
 
 - **About**
   - [License](about/license.md)
-  - Last updated on <br> _April-2026_
+  - Last updated on <br> _July-2026_
